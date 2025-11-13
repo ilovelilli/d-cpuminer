@@ -2,6 +2,13 @@
 C-based CPU miner for [Duino-Coin](https://duinocoin.com)
 
 # Changelog
+* [arsnichydra] (13.11.2025) fived server conection issues
+* [arsnichydra] (13.11.2025) fixed segmentation faults
+* [arsnichydra] (13.11.2025) fixed buffer overflow
+
+* todo add mining minerkey and other improvements
+
+# Changelog
 * [revox] (8.05.2021) calculate hashrate using time; more imprevements
 * [revox] (8.05.2021) fix overflows; improve hashrate; make the miner work with newline server responses
 * [revox] (13.11.2020) further small improvements
